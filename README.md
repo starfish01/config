@@ -1,6 +1,6 @@
 # config
 
-## Aerospace
+## [Aerospace](https://github.com/nikitabobko/AeroSpace)
 - Mac tiling system
-
-~/.aerospace.toml
+- config location 
+`~/.aerospace.toml`
